@@ -1,4 +1,5 @@
 radio.set_group(1)
+
 huskylens.init_i2c()
 huskylens.init_mode(protocolAlgorithm.ALGORITHM_COLOR_RECOGNITION)
 
